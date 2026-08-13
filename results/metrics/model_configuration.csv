@@ -1,0 +1,5 @@
+Model,C,class_weight,max_iter,solver,random_state,n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,n_jobs,learning_rate,num_leaves,scale_pos_weight,subsample,colsample_bytree
+Logistic Regression,1.0,balanced,1000.0,lbfgs,42,,,,,,,,,,,
+Random Forest,,balanced_subsample,,,42,100.0,12.0,10.0,5.0,sqrt,-1.0,,,,,
+LightGBM,,,,,42,300.0,-1.0,,,,-1.0,0.05,64.0,27.580278281911674,,
+XGBoost,,,,,42,300.0,6.0,,,,-1.0,0.05,,27.580278281911674,0.8,0.8

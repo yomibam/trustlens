@@ -1,0 +1,41 @@
+[theme]
+base = "light"
+
+# Main application colour
+primaryColor = "#3F5F90"
+
+# Surface colours
+backgroundColor = "#F9F9FF"
+secondaryBackgroundColor = "#F0F1FA"
+
+# Text and borders
+textColor = "#1A1B20"
+borderColor = "#C7C7D0"
+dataframeBorderColor = "#DADAE3"
+dataframeHeaderBackgroundColor = "#E4E6F0"
+
+# Component appearance
+baseRadius = "0.75rem"
+buttonRadius = "full"
+showWidgetBorder = true
+
+# Typography
+font = "sans-serif"
+headingFont = "sans-serif"
+baseFontSize = 16
+baseFontWeight = 400
+
+# Semantic colours used by Streamlit messages
+redColor = "#BA1A1A"
+orangeColor = "#9C4400"
+yellowColor = "#765A00"
+greenColor = "#146C2E"
+blueColor = "#3F5F90"
+
+
+[client]
+toolbarMode = "minimal"
+
+
+[browser]
+gatherUsageStats = false

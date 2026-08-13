@@ -1,0 +1,4 @@
+model,shap_explanation_time_500_samples
+Random Forest,27.5735821723938
+LightGBM,3.3963098526000977
+XGBoost,0.8817501068115234
